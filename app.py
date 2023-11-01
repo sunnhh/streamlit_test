@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("희의 페이지")
+st.title("희선의 페이지")
